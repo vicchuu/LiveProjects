@@ -86,7 +86,7 @@ import matplotlib.pyplot as plt
 # plt.plot(predicted_price_xtrain)
 # plt.xlabel("actual price")
 # plt.ylabel("predicted price")
-# plt.show()
+# plt.show() eqvqr
 #
 # plt.scatter(y_test,predicted_price_xtest,color="green")
 # plt.xlabel("actual price")
